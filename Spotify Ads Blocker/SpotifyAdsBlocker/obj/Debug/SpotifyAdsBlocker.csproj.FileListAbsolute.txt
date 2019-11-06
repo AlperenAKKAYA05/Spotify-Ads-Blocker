@@ -1,0 +1,17 @@
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\SpotifyAdsBlocker.exe.config
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\SpotifyAdsBlocker.exe
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\SpotifyAdsBlocker.pdb
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\Costura.dll
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\Costura.xml
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.Main.resources
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.Properties.strings.resources
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.csproj.Fody.CopyLocal.cache
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.csproj.CopyComplete
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.exe
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.pdb
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.Properties.Resources.resources
+C:\Users\alper\Desktop\Spotify Ads Blocker\SpotifyAdsBlocker\obj\Debug\SpotifyAdsBlocker.csprojAssemblyReference.cache
