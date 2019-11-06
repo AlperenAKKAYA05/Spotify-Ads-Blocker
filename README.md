@@ -1,5 +1,6 @@
 # Spotify Ads Blocker
 Original Project: https://github.com/Xeroday/Spotify-Ad-Blocker
+
 Spotify Ads Blocker
 Spotify Ads Blockeris a Spotify Ad Blocker written in C# for Windows 7/8/10. The goal for Spotify Ads Blockeris to be the most reliable ad blocker for Spotify.
 
